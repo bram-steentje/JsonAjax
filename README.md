@@ -8,7 +8,7 @@ De site is gemaakt om mijn leerdoelen aan te tonen en aan de eisen te voldoen di
 
 ---
 ## Contributors
-- <Bram Steenbakkers>
+- Bram Steenbakkers
 ---
 
 ## License & copyright
